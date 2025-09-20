@@ -1,0 +1,30 @@
+type: directory
+name: root
+size: 0
+parent: null
+time: 2024-11-09 13:00:00
+
+type: file
+name: score
+size: 0
+parent: root
+time: 2024-12-17 17:26:44
+
+type: directory
+name: dir2
+size: 0
+parent: root
+time: 2024-11-10 14:00:00
+
+type: file
+name: Score11
+size: 1024
+parent: dir2
+time: 2024-12-17 17:27:58
+
+type: file
+name: file3.txt
+size: 3072
+parent: dir2
+time: 2024-11-10 17:00:00
+
